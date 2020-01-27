@@ -2,7 +2,7 @@
 
 ## Project 1： Image Classification
 
-** Task: Design deep neural network and analyize the influence of network architecture, optimizer and regularization. **
+**Task: Design deep neural network and analyize the influence of network architecture, optimizer and regularization.**
 
 Used packages: Keras
 
